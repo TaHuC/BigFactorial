@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/BigFacturial/BigFacturial/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/BigFacturial/BigFacturial/bin/Debug/BigFacturial.exe.mdb
+/Users/TaHuC/Projects/BigFacturial/BigFacturial/bin/Debug/BigFacturial.exe
+/Users/TaHuC/Projects/BigFacturial/BigFacturial/obj/x86/Debug/BigFacturial.exe
+/Users/TaHuC/Projects/BigFacturial/BigFacturial/obj/x86/Debug/BigFacturial.exe.mdb
